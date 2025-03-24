@@ -61,7 +61,10 @@ pip install -r requirements.txt
 
 ````
 
+### Описание программы
+Описание: Проект — это RAG-система, обученная на математических книгах (линейная алгебра, матанализ, статистика). Используется Saiga LLaMA3 8B и векторный поиск.
 
+Статус: ⚠️ Проект находится в активной разработке, финальный функционал еще дорабатывается.
 
 Модель была взята из <a href="https://huggingface.co/docs/hub/index">Hugging-Face</a> и использует
 <a href = "https://huggingface.co/IlyaGusev/saiga_llama3_8b"> saiga_llama3_8b </a> как базову
