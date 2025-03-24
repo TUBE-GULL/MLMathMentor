@@ -22,9 +22,8 @@
  <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="60" height="60"> 
  </a>
-
- <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="60" height="60"> 
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
  </a>
 
  <a href="https://huggingface.co/docs/hub/index" target="_blank" rel="noreferrer" style="display: inline-block;">
