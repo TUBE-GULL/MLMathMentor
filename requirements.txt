@@ -1,0 +1,16 @@
+load_dotenv
+faiss-cpu
+bitsandbytes
+llama_index
+langchain_huggingface
+llama-index-embeddings-langchain
+llama-index-vector-stores-faissv
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface
+langchain-community
+sentence-transformers
+pyvis
+arize-phoenix
+openinference-instrumentation-llama-index
+opentelemetry-sdk
+nemoguardrails

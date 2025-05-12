@@ -1,0 +1,11 @@
+# Игнорировать файл переменных окружения
+.env
+
+# Игнорировать папку с данными
+data/
+
+# Игнорировать KnowledgeGraphIndex
+create_storage/KnowledgeGraphIndex/KnowledgeGraphIndex/
+
+# Игнорировать VectorStoreIndex
+create_storage/VectorStoreIndex/VectorStoreIndex/
